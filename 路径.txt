@@ -1,0 +1,10 @@
+定时公告\system\data\system\functions\main\public
+新玩家欢迎\template\data\template\functions\join\2.mcfunction
+老玩家欢迎template\data\template\functions\leave\1.mcfunction
+商店\system\data\system\functions\fun\shop
+获得全部娱乐物品/function system:add.tag 
+删除获得到的全部娱乐物品/function system:remove.tag 
+随机数最小数\system\data\system\functions\random\go.count\2.mcfunction
+随机数最大数\system\data\system\functions\random\go.count\3.mcfunction
+
+黑名单设置\system\data\system\functions\blacklist\reload.mcfunction : scoreboard players set 玩家名称 blacklist 1

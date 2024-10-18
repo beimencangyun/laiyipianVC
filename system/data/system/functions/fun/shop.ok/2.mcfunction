@@ -1,0 +1,1 @@
+tellraw @s "<System> §c购买失败，金额不足"

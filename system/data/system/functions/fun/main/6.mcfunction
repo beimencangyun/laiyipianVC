@@ -1,0 +1,1 @@
+item replace entity @s armor.head with minecraft:white_banner{BlockEntityTag:{Base:1,Patterns:[{Pattern:gra,Color:6},{Pattern:gru,Color:5},{Pattern:ss,Color:0},{Pattern:cbo,Color:0}]}} 1

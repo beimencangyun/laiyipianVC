@@ -1,0 +1,1 @@
+scoreboard players set @s int.2 1

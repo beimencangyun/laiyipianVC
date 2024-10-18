@@ -1,0 +1,2 @@
+tellraw @s [{"text":"§b装扮","clickEvent":{"action":"run_command","value":"/trigger s.trigger set 2"}}]
+tellraw @s [{"text":"§c粒子","clickEvent":{"action":"run_command","value":"/trigger s.trigger set 3"}}]

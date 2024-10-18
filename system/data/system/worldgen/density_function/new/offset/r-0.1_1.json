@@ -1,0 +1,525 @@
+{
+  "type": "minecraft:flat_cache",
+  "argument": {
+    "type": "minecraft:spline",
+    "spline": {
+      "coordinate": "system:new/ridge",
+      "points": [
+        {
+          "location": -0.1,
+          "derivative": 0,
+          "value": {
+            "coordinate": "system:new/temperature",
+            "points": [
+              {
+                "location": -1,
+                "derivative": 0,
+                "value": {
+                  "coordinate": "system:m/2",
+                  "points": [
+                    {
+                      "location": -1,
+                      "derivative": 0,
+                      "value": {
+                        "coordinate": "system:h/2",
+                        "points": [
+                          {
+                            "location": -1,
+                            "derivative": 0,
+                            "value": -1
+                          },
+                          {
+                            "location": 1,
+                            "derivative": 0,
+                            "value": 1
+                          }
+                        ]
+                      }
+                    },
+                    {
+                      "location": -0.5,
+                      "derivative": 0,
+                      "value": {
+                        "coordinate": "system:e/2/a",
+                        "points": [
+                          {
+                            "location": -1,
+                            "derivative": 0,
+                            "value": {
+                              "coordinate": "system:h/2",
+                              "points": [
+                                {
+                                  "location": -1,
+                                  "derivative": 0,
+                                  "value": -1
+                                },
+                                {
+                                  "location": 1,
+                                  "derivative": 0.2,
+                                  "value": 1
+                                }
+                              ]
+                            }
+                          },
+                          {
+                            "location": -0.5,
+                            "derivative": 0,
+                            "value": {
+                              "coordinate": "system:e/2/b",
+                              "points": [
+                                {
+                                  "location": -1,
+                                  "derivative": 0,
+                                  "value": {
+                                    "coordinate": "system:h/2",
+                                    "points": [
+                                      {
+                                        "location": -1,
+                                        "derivative": 0,
+                                        "value": -1
+                                      },
+                                      {
+                                        "location": 1,
+                                        "derivative": 0.2,
+                                        "value": 1
+                                      }
+                                    ]
+                                  }
+                                },
+                                {
+                                  "location": -0.4,
+                                  "derivative": 0,
+                                  "value": {
+                                    "coordinate": "system:e/2/c",
+                                    "points": [
+                                      {
+                                        "location": -1,
+                                        "derivative": 0,
+                                        "value": {
+                                          "coordinate": "system:h/2",
+                                          "points": [
+                                            {
+                                              "location": -1,
+                                              "derivative": 0,
+                                              "value": -1
+                                            },
+                                            {
+                                              "location": 1,
+                                              "derivative": 0.2,
+                                              "value": 1
+                                            }
+                                          ]
+                                        }
+                                      },
+                                      {
+                                        "location": -0.3,
+                                        "derivative": 0,
+                                        "value": {
+                                          "coordinate": "system:e/2/d",
+                                          "points": [
+                                            {
+                                              "location": -1,
+                                              "derivative": 0,
+                                              "value": {
+                                                "coordinate": "system:h/2",
+                                                "points": [
+                                                  {
+                                                    "location": -1,
+                                                    "derivative": 0,
+                                                    "value": -1
+                                                  },
+                                                  {
+                                                    "location": 1,
+                                                    "derivative": 0.2,
+                                                    "value": 1
+                                                  }
+                                                ]
+                                              }
+                                            },
+                                            {
+                                              "location": -0.2,
+                                              "derivative": 0,
+                                              "value": {
+                                                "coordinate": "system:e/2/e",
+                                                "points": [
+                                                  {
+                                                    "location": -1,
+                                                    "derivative": 0,
+                                                    "value": {
+                                                      "coordinate": "system:h/2",
+                                                      "points": [
+                                                        {
+                                                          "location": -1,
+                                                          "derivative": 0,
+                                                          "value": -1
+                                                        },
+                                                        {
+                                                          "location": 1,
+                                                          "derivative": 0.1,
+                                                          "value": 1
+                                                        }
+                                                      ]
+                                                    }
+                                                  },
+                                                  {
+                                                    "location": 1,
+                                                    "derivative": 0,
+                                                    "value": {
+                                                      "coordinate": "system:h/2",
+                                                      "points": [
+                                                        {
+                                                          "location": -1,
+                                                          "derivative": 0,
+                                                          "value": -1
+                                                        },
+                                                        {
+                                                          "location": 1,
+                                                          "derivative": 0,
+                                                          "value": 1
+                                                        }
+                                                      ]
+                                                    }
+                                                  }
+                                                ]
+                                              }
+                                            }
+                                          ]
+                                        }
+                                      }
+                                    ]
+                                  }
+                                }
+                              ]
+                            }
+                          }
+                        ]
+                      }
+                    },
+                    {
+                      "location": 0.2,
+                      "derivative": 0,
+                      "value": {
+                        "coordinate": "system:e/2/a",
+                        "points": [
+                          {
+                            "location": -1,
+                            "derivative": 0,
+                            "value": {
+                              "coordinate": "system:h/2",
+                              "points": [
+                                {
+                                  "location": -1,
+                                  "derivative": 0,
+                                  "value": -1
+                                },
+                                {
+                                  "location": 1,
+                                  "derivative": 1,
+                                  "value": 1
+                                }
+                              ]
+                            }
+                          },
+                          {
+                            "location": -0.5,
+                            "derivative": 0,
+                            "value": {
+                              "coordinate": "system:e/2/b",
+                              "points": [
+                                {
+                                  "location": -1,
+                                  "derivative": 0,
+                                  "value": {
+                                    "coordinate": "system:h/2",
+                                    "points": [
+                                      {
+                                        "location": -1,
+                                        "derivative": 0,
+                                        "value": -1
+                                      },
+                                      {
+                                        "location": 1,
+                                        "derivative": 1,
+                                        "value": 1
+                                      }
+                                    ]
+                                  }
+                                },
+                                {
+                                  "location": -0.4,
+                                  "derivative": 0,
+                                  "value": {
+                                    "coordinate": "system:e/2/c",
+                                    "points": [
+                                      {
+                                        "location": -1,
+                                        "derivative": 0,
+                                        "value": {
+                                          "coordinate": "system:h/2",
+                                          "points": [
+                                            {
+                                              "location": -1,
+                                              "derivative": 0,
+                                              "value": -1
+                                            },
+                                            {
+                                              "location": 1,
+                                              "derivative": 1,
+                                              "value": 1
+                                            }
+                                          ]
+                                        }
+                                      },
+                                      {
+                                        "location": -0.3,
+                                        "derivative": 0,
+                                        "value": {
+                                          "coordinate": "system:e/2/d",
+                                          "points": [
+                                            {
+                                              "location": -1,
+                                              "derivative": 0,
+                                              "value": {
+                                                "coordinate": "system:h/2",
+                                                "points": [
+                                                  {
+                                                    "location": -1,
+                                                    "derivative": 0,
+                                                    "value": -1
+                                                  },
+                                                  {
+                                                    "location": 1,
+                                                    "derivative": 0.8,
+                                                    "value": 1
+                                                  }
+                                                ]
+                                              }
+                                            },
+                                            {
+                                              "location": -0.2,
+                                              "derivative": 0,
+                                              "value": {
+                                                "coordinate": "system:e/2/e",
+                                                "points": [
+                                                  {
+                                                    "location": -1,
+                                                    "derivative": 0,
+                                                    "value": {
+                                                      "coordinate": "system:h/2",
+                                                      "points": [
+                                                        {
+                                                          "location": -1,
+                                                          "derivative": 0,
+                                                          "value": -1
+                                                        },
+                                                        {
+                                                          "location": 1,
+                                                          "derivative": 0.6,
+                                                          "value": 1
+                                                        }
+                                                      ]
+                                                    }
+                                                  },
+                                                  {
+                                                    "location": 1,
+                                                    "derivative": 0,
+                                                    "value": {
+                                                      "coordinate": "system:h/2",
+                                                      "points": [
+                                                        {
+                                                          "location": -1,
+                                                          "derivative": 0,
+                                                          "value": -1
+                                                        },
+                                                        {
+                                                          "location": 1,
+                                                          "derivative": 0,
+                                                          "value": 1
+                                                        }
+                                                      ]
+                                                    }
+                                                  }
+                                                ]
+                                              }
+                                            }
+                                          ]
+                                        }
+                                      }
+                                    ]
+                                  }
+                                }
+                              ]
+                            }
+                          }
+                        ]
+                      }
+                    },
+                    {
+                      "location": 0.6,
+                      "derivative": 0,
+                      "value": {
+                        "coordinate": "system:e/2/a",
+                        "points": [
+                          {
+                            "location": -1,
+                            "derivative": 0,
+                            "value": {
+                              "coordinate": "system:h/2a",
+                              "points": [
+                                {
+                                  "location": -1,
+                                  "derivative": 0,
+                                  "value": -1
+                                },
+                                {
+                                  "location": 1,
+                                  "derivative": 1,
+                                  "value": 1
+                                }
+                              ]
+                            }
+                          },
+                          {
+                            "location": -0.5,
+                            "derivative": 0,
+                            "value": {
+                              "coordinate": "system:e/2/b",
+                              "points": [
+                                {
+                                  "location": -1,
+                                  "derivative": 0,
+                                  "value": {
+                                    "coordinate": "system:h/2a",
+                                    "points": [
+                                      {
+                                        "location": -1,
+                                        "derivative": 0,
+                                        "value": -1
+                                      },
+                                      {
+                                        "location": 1,
+                                        "derivative": 1,
+                                        "value": 1
+                                      }
+                                    ]
+                                  }
+                                },
+                                {
+                                  "location": -0.4,
+                                  "derivative": 0,
+                                  "value": {
+                                    "coordinate": "system:e/2/c",
+                                    "points": [
+                                      {
+                                        "location": -1,
+                                        "derivative": 0,
+                                        "value": {
+                                          "coordinate": "system:h/2a",
+                                          "points": [
+                                            {
+                                              "location": -1,
+                                              "derivative": 0,
+                                              "value": -1
+                                            },
+                                            {
+                                              "location": 1,
+                                              "derivative": 0.7,
+                                              "value": 1
+                                            }
+                                          ]
+                                        }
+                                      },
+                                      {
+                                        "location": -0.3,
+                                        "derivative": 0,
+                                        "value": {
+                                          "coordinate": "system:e/2/d",
+                                          "points": [
+                                            {
+                                              "location": -1,
+                                              "derivative": 0,
+                                              "value": {
+                                                "coordinate": "system:h/2a",
+                                                "points": [
+                                                  {
+                                                    "location": -1,
+                                                    "derivative": 0,
+                                                    "value": -1
+                                                  },
+                                                  {
+                                                    "location": 1,
+                                                    "derivative": 0.5,
+                                                    "value": 1
+                                                  }
+                                                ]
+                                              }
+                                            },
+                                            {
+                                              "location": -0.2,
+                                              "derivative": 0,
+                                              "value": {
+                                                "coordinate": "system:e/2/e",
+                                                "points": [
+                                                  {
+                                                    "location": -1,
+                                                    "derivative": 0,
+                                                    "value": {
+                                                      "coordinate": "system:h/2a",
+                                                      "points": [
+                                                        {
+                                                          "location": -1,
+                                                          "derivative": 0,
+                                                          "value": -1
+                                                        },
+                                                        {
+                                                          "location": 1,
+                                                          "derivative": 0.3,
+                                                          "value": 1
+                                                        }
+                                                      ]
+                                                    }
+                                                  },
+                                                  {
+                                                    "location": 1,
+                                                    "derivative": 0,
+                                                    "value": {
+                                                      "coordinate": "system:h/2a",
+                                                      "points": [
+                                                        {
+                                                          "location": -1,
+                                                          "derivative": 0,
+                                                          "value": -1
+                                                        },
+                                                        {
+                                                          "location": 1,
+                                                          "derivative": 0,
+                                                          "value": 1
+                                                        }
+                                                      ]
+                                                    }
+                                                  }
+                                                ]
+                                              }
+                                            }
+                                          ]
+                                        }
+                                      }
+                                    ]
+                                  }
+                                }
+                              ]
+                            }
+                          }
+                        ]
+                      }
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        }
+      ]
+    }
+  }
+}

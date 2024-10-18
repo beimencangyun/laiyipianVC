@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:flat_cache",
+  "argument": {
+    "type": "minecraft:spline",
+    "spline": {
+      "coordinate": "system:m/2h",
+      "points": [
+        {
+          "location": -1,
+          "derivative": 0,
+          "value": -0.15
+        },
+        {
+          "location": 1,
+          "derivative": 0,
+          "value": 0.43
+        }
+      ]
+    }
+  }
+}

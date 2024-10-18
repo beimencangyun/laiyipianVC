@@ -1,0 +1,1 @@
+tellraw @s [{"text":"<System> §a在线管理员有： "},{"selector":"@a[tag=op]"}]

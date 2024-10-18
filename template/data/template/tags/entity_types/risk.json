@@ -1,0 +1,18 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:chest_boat",
+	"minecraft:boat",
+	"minecraft:wither",
+	"minecraft:ender_dragon",
+	"minecraft:firework_rocket",
+	"minecraft:creeper",
+	"minecraft:end_crystal",
+	"minecraft:zombie",
+	"minecraft:slime",
+	"minecraft:experience_orb",
+	"minecraft:tnt_minecart",
+	"minecraft:spawner_minecart",
+	"minecraft:tnt"
+  ]
+}

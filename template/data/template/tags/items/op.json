@@ -1,0 +1,16 @@
+{
+    "values":[
+      "minecraft:flint_and_steel",
+        "minecraft:tnt",
+        "minecraft:crying_obsidian",
+        "minecraft:creeper_spawn_egg",
+        "minecraft:lava_bucket",
+        "minecraft:lingering_potion",
+        "minecraft:wither_skeleton_skull",
+        "minecraft:end_crystal",
+        "minecraft:respawn_anchor",
+		"minecraft:spawner",
+        "minecraft:fire_charge",
+		"minecraft:tnt_minecart"
+    ]
+}
